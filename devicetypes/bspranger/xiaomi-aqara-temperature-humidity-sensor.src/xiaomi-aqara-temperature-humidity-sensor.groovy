@@ -29,6 +29,7 @@ metadata {
 	capability "Sensor"
 	capability "Battery"
 	capability "Health Check"
+	capability "Thermostat"
 
 	attribute "lastCheckin", "String"
 	attribute "lastCheckinDate", "String"
